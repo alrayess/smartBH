@@ -1103,17 +1103,6 @@ That is the direction I want to continue developing as I grow as a software engi
 
 ⸻
 
-Technology
-
-Language: Java
-Application Type: Console-based analytics platform
-Architecture: Object-oriented, menu-driven application
-Primary Data Structures: ArrayList, HashMap, arrays, custom objects
-External Dependencies: None
-Primary Focus: Business analytics, pricing, inventory, profitability, forecasting, and decision support
-
-⸻
-
 Running Smart BH Analytics
 
 Requirements
